@@ -1,4 +1,4 @@
-# Simon Challenge Game Project
+# Simon Challenge Game Project johnpalaganas-simongame.netlify.app/
 - This Simon repo contains variety of Exercise for solving problem how to activate the sounds when user can tap in the color game.
 
 ## Steps by Steps of how this game was built 
